@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Mohajer College.\
-🌱 &nbsp;I'm on track for learning more about C#, ASP.NET, Next.js, .NET/.NET Core.\
-✍️ &nbsp;In my free time, I watch TV and play games.\
+🌱 &nbsp;I'm on track for learning more about Next.js, Flutter, and Dart\
+✍️ &nbsp;I watch TV and play games in my free time.\
 ✉️ &nbsp;You can shoot me an email at noori4815162342@gmail.com! I'll try to respond as soon as I can.\
 
 
