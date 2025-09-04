@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying Computer Engineering at Mohajer College.\
 🌱 &nbsp;I'm on track for learning more about NoSQL Databases\
 ✍️ &nbsp;I watch TV and play games in my free time.\
-✉️ &nbsp;You can shoot me an email at noori4815162342@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at noori4815162342@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
