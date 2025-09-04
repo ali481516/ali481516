@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Mohajer College.\
-🌱 &nbsp;I'm on track for learning more about Flutter and Dart\
+🌱 &nbsp;I'm on track for learning more about NoSQL Databases\
 ✍️ &nbsp;I watch TV and play games in my free time.\
 ✉️ &nbsp;You can shoot me an email at noori4815162342@gmail.com! I'll try to respond as soon as I can.\
 
@@ -31,12 +31,16 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/sql_server-%23323330.svg?style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%234285F4.svg?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%234285F4.svg?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23EEEEEE.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=%23EEEEEE)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
