@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ali481516&theme=juicyfresh&no-bg=true" />
 
 ### 🤝🏻 &nbsp;Connect with Me
 
